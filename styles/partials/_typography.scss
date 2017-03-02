@@ -1,0 +1,41 @@
+body {
+    color: $grey;
+    font-family: Lato-Regular, sans-serif;
+    font-weight: $base-font-weight;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: $xxl;
+    font-weight: normal;
+    font-family: 'Lato-Regular';
+}
+
+h2 {
+    font-size: $xl;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: $l;
+    font-weight: normal;
+}
+
+h4 {
+    font-size: $m;
+    font-weight: normal;
+}
+
+h5 {
+    font-size: $s;
+    font-weight: normal;
+}
+
+h6 {
+    font-size: $xs;
+    font-weight: normal;
+}
+
+p {
+    font-size: $xxs;
+}
